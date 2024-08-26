@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/iigaisp/Documents/git/STARTERKIT_IOS_V4/BleSampleOmron/BleSampleOmron/CoreData/BSOHistoryEntity+CoreDataProperties.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/iigaisp/Documents/git/STARTERKIT_IOS_V4/BleSampleOmron/BleSampleOmron/CoreData/BSOHistoryEntity+CoreDataProperties.m">
+   </FileRef>
+   <FileRef
+      location = "group:BleSampleOmron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
